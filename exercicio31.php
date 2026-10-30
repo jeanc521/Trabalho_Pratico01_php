@@ -12,8 +12,7 @@ Componentes:
  26010149-2 - Jean Carlos 
  26007982-2 - João Gabriel Subtil 
 Data: 30 de Outubro de 2026
-Descritivo: 31: Escreva um programa que leia três números e os exiba na tela em ordem crescente e,
-posteriormente, em ordem decrescente
+Descritivo: 31: Cria uma função sem parâmetros que exibe uma mensagem de boas-vindas.
 ******************************************************************************
 */
 ?>
