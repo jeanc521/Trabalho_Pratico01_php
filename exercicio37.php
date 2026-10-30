@@ -1,4 +1,7 @@
 <?php
+/*
+Descritivo: 37: Cria uma função que organiza e exibe nome, idade e cidade usando um array associativo.
+*/
 function organizarDados(string $nome, int $idade, string $cidade) {
     $dados = array(
         'nome' => $nome,
