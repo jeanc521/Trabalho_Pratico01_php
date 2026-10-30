@@ -16,7 +16,7 @@ Descritivo: 40: Cria uma função que armazena e exibe a marca, o modelo e o ano
 ******************************************************************************
 */
 ?>
-
+<?php
 function associativo(string $marca, string $modelo, int $ano) {
     $carro = [
         "marca" => $marca,
