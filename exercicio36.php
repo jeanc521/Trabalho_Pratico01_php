@@ -16,7 +16,7 @@ Descritivo: 36: Cria uma função que desenha uma linha horizontal com a quantid
 ******************************************************************************
 */
 ?>
-<?
+<?php
 function desenharLinhas(int $quantidade){
     for($i = 0; $i < $quantidade; $i++){
         echo "-";
