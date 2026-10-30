@@ -16,7 +16,7 @@ Descritivo: 39: Cria uma função que realiza uma contagem regressiva a partir d
 ******************************************************************************
 */
 ?>
-
+<?
 function contagemRegressiva(int $numero) {
     for ($i = $numero; $i >= 0; $i--) {
         echo $i . "\n";
